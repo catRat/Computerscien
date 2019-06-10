@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.5.26)  7 JUN 2019 17:55
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.5.26)  10 JUN 2019 23:13
 entering extended mode
  %&-line parsing enabled.
 **text.tex
@@ -323,8 +323,7 @@ Package fontspec Info: Font family '宋体(0)' created for font '宋体' with op
 (fontspec)             <->"宋体/OT:script=hani;language=DFLT;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-
-No file text.aux.
+ (./text.aux)
 \openout1 = `text.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -405,6 +404,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 12.
 
+
 LaTeX Warning: No \author given.
 
 [1
@@ -418,59 +418,58 @@ LaTeX Font Warning: Font shape `TU/宋体(0)/bx/n' undefined
 
 (./caper0.tex) [1
 
-]
-No file text.toc.
+] (./text.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+ [2
+
+])
 \tf@toc=\write3
 \openout3 = `text.toc'.
 
-[2
-
-]
+ [3] (./caper1.tex
 Chapter 1.
-(./caper1.tex [1
+[1
 
 
 ]
 
 LaTeX Font Warning: Font shape `TU/宋体(0)/m/sl' undefined
-(Font)              using `TU/宋体(0)/m/n' instead on input line 54.
+(Font)              using `TU/宋体(0)/m/n' instead on input line 44.
 
-[2]) [3]
+[2] [3]) (./caper5.tex [4]
 Chapter 2.
-(./caper5.tex [4
+[5
 
-] [5] [6] [7]) [8]
+] [6] [7] [8]) (./caper6.tex [9]
 Chapter 3.
-(./caper6.tex [9
+[10
 
-]) [10]
+] [11] [12]) (./caper7.tex [13]
 Chapter 4.
-(./caper7.tex [11
+[14
 
-] [12] [13] [14]) [15]
+] [15] [16] [17] [18]) (./caper8.tex [19]
 Chapter 5.
-(./caper8.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 16.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 16.
- [16
+[20
 
-] [17]) [18]
+] [21]) (./caper9.tex [22]
 Chapter 6.
-(./caper9.tex [19
+[23
 
-] [20]) [21]
+] [24] [25]) [26]
 Chapter 7.
-(./caper10.tex [22
+(./caper10.tex [27
 
-] [23] [24]) [25]
+] [28] [29]) [30]
 Chapter 8.
-(./caper11.tex [26
+(./caper11.tex [31
 
-] [27]) [28]
+] [32]) [33]
 Chapter 9.
-(./caper12.tex [29
+(./caper12.tex [34
 
 ]
 
@@ -496,30 +495,51 @@ Package fontspec Info: Font family '黑体(0)' created for font '黑体' with op
 (fontspec)             <->"黑体/OT:script=hani;language=DFLT;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-) [30]
+) [35]
 Chapter 10.
-(./caper13.tex [31
+(./caper13.tex [36
 
-]) [32]
+]) [37]
 Chapter 11.
-(./caper14.tex [33
+(./caper14.tex [38
 
-] [34]) [35]
+] [39]
+Overfull \hbox (5.5pt too wide) in paragraph at lines 77--77
+ []\TU/lmtt/m/n/10 select attribute-list from RELATION1, RELATION2 where criter
+ia[] 
+ []
+
+) [40]
 Chapter 12.
-(./caper15.tex) [36
+(./caper15.tex)
+
+! LaTeX Error: \begin{enumerate} on input line 61 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \end{document}
+                   
+? 
+[41
 
 ] (./text.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 61 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 13576 strings out of 492922
- 322849 string characters out of 6136751
- 403929 words of memory out of 5000000
- 17559 multiletter control sequences out of 15000+600000
+ 13582 strings out of 492922
+ 322920 string characters out of 6136751
+ 400929 words of memory out of 5000000
+ 17561 multiletter control sequences out of 15000+600000
  535314 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 42i,6n,63p,363b,875s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,6n,63p,530b,524s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on text.pdf (39 pages).
+Output written on text.pdf (45 pages).
