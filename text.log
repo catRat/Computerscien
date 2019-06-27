@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.5.26)  27 JUN 2019 00:00
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.5.26)  27 JUN 2019 21:55
 entering extended mode
  %&-line parsing enabled.
 **text.tex
@@ -607,27 +607,27 @@ LaTeX Font Warning: Font shape `TU/宋体(0)/m/sl' undefined
 Chapter 2.
 [5
 
-] [6] [7] [8]) (./caper6.tex [9]
+] [6] [7] [8] [9]) (./caper6.tex [10]
 Chapter 3.
-[10
+[11
 
-] [11] [12]) (./caper7.tex [13]
+] [12] [13]) (./caper7.tex [14]
 Chapter 4.
-[14
+[15
 
-] [15] [16] [17] [18] [19] [20]) (./caper8.tex [21]
+] [16] [17] [18] [19] [20] [21]) (./caper8.tex [22]
 Chapter 5.
-[22
+[23
 
-] [23] [24])
+] [24] [25])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
- [25] [26]
+ [26] [27]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
  (./text.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 36.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
 Package rerunfilecheck Info: File `text.out' has not changed.
-(rerunfilecheck)             Checksum: 6559A69757C4B16045BB1F34AA68F9DB.
+(rerunfilecheck)             Checksum: 5A3859E4C9AC8CEF8E6222DDAC634461.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -635,12 +635,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
  ) 
 Here is how much of TeX's memory you used:
- 20946 strings out of 492922
- 427642 string characters out of 6136751
- 525471 words of memory out of 5000000
- 24886 multiletter control sequences out of 15000+600000
+ 20947 strings out of 492922
+ 427655 string characters out of 6136751
+ 525675 words of memory out of 5000000
+ 24887 multiletter control sequences out of 15000+600000
  535634 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  41i,6n,62p,530b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on text.pdf (31 pages).
+Output written on text.pdf (32 pages).
