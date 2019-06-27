@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.5.26)  27 JUN 2019 21:55
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.5.26)  27 JUN 2019 23:53
 entering extended mode
  %&-line parsing enabled.
 **text.tex
@@ -611,17 +611,17 @@ Chapter 2.
 Chapter 3.
 [11
 
-] [12] [13]) (./caper7.tex [14]
+] [12] [13] [14]) (./caper7.tex [15]
 Chapter 4.
-[15
+[16
 
-] [16] [17] [18] [19] [20] [21]) (./caper8.tex [22]
+] [17] [18] [19] [20] [21] [22]) (./caper8.tex [23]
 Chapter 5.
-[23
+[24
 
-] [24] [25])
+] [25] [26])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
- [26] [27]
+ [27] [28]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
  (./text.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 36.
@@ -637,10 +637,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
 Here is how much of TeX's memory you used:
  20947 strings out of 492922
  427655 string characters out of 6136751
- 525675 words of memory out of 5000000
+ 527675 words of memory out of 5000000
  24887 multiletter control sequences out of 15000+600000
  535634 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  41i,6n,62p,530b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on text.pdf (32 pages).
+Output written on text.pdf (33 pages).
