@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.5.26)  27 JUN 2019 23:53
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.5.26)  5 JUL 2019 21:11
 entering extended mode
  %&-line parsing enabled.
 **text.tex
@@ -589,11 +589,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 3.
  [2
 
-] [3])
+] [3] [4])
 \tf@toc=\write4
 \openout4 = `text.toc'.
 
- [4] (./caper1.tex
+ [5] (./caper1.tex
 Chapter 1.
 [1
 
@@ -619,15 +619,27 @@ Chapter 4.
 Chapter 5.
 [24
 
-] [25] [26])
+] [25] [26]) (./caper9.tex [27] [28]
+Chapter 6.
+[29
+
+] [30] [31] [32] [33]) (./caper10.tex [34]
+Chapter 7.
+[35
+
+] [36] [37] [38]) (./caper11.tex [39]
+Chapter 8.
+[40
+
+] [41] [42])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
- [27] [28]
+ [43]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
  (./text.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 36.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
 Package rerunfilecheck Info: File `text.out' has not changed.
-(rerunfilecheck)             Checksum: 5A3859E4C9AC8CEF8E6222DDAC634461.
+(rerunfilecheck)             Checksum: 26F3B1E7B32780A509D197D4FDE002AD.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -635,12 +647,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
  ) 
 Here is how much of TeX's memory you used:
- 20947 strings out of 492922
- 427655 string characters out of 6136751
- 527675 words of memory out of 5000000
- 24887 multiletter control sequences out of 15000+600000
+ 20984 strings out of 492922
+ 428707 string characters out of 6136751
+ 531200 words of memory out of 5000000
+ 24915 multiletter control sequences out of 15000+600000
  535634 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  41i,6n,62p,530b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on text.pdf (33 pages).
+Output written on text.pdf (49 pages).
